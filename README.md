@@ -15,14 +15,14 @@
 
 #Other than this 2 new columns were added to tell the condition of blood pressure and bmi
 
-# For BMI status: 
--1:Under Weight
-0:Normal
-1:Over Weight
-2:Obese
+#For BMI status: 
+#-1:Under Weight
+#0:Normal
+#1:Over Weight
+#2:Obese
 
 #For Pressure:
--1:Low 
-0:Normal(60-80)
-1:High
+#-1:Low 
+#0:Normal(60-80)
+#1:High
 #Then Result,BMI Status and Pressure Status were mutated from an integer to give an appropriate name 
