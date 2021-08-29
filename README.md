@@ -26,3 +26,6 @@ For Pressure:
 0:Normal(60-80),
 1:High
 Then Result,BMI Status and Pressure Status were mutated from an integer to give an appropriate name 
+
+
+Different plots in different scenarios were made to visulize the given data
